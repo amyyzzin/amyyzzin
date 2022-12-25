@@ -7,11 +7,11 @@
 </div>
           
 <h2>👩‍🔧 About ME</h2>
-<h4>
+<h3>
 Hello, I'm Amy new backend developer. 🙋‍♀️</br>
 I am steadily improving through learning and experience. </br>
 I do my best with a positive attitude and strong responsibility.  </br>
-</h4>
+</h3>
 
 <h2>👩‍💻 Skills</h2>
 <div>
