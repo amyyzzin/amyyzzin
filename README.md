@@ -1,6 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=230&section=header&text=❤,%20&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=170&section=header&text=❤,%20&fontSize=50)
+
+<div style="width:100%;">
+            
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amyyzzin)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amyyzzin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
 
 <div align=center>
   
