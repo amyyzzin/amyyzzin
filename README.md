@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello,%20I'm%20Amy😎&fontSize=50)
 <div>
-     <a href="https://amyyzzin.gmail.com"><img src="https://img.shields.io/badge/Gmail-black?style=flat-square&logo=Gmail&logoColor=white"/>
+     <a href="mailto:"https://amyyzzin.gmail.com"><img src="https://img.shields.io/badge/Gmail-black?style=flat-square&logo=Gmail&logoColor=white"/>
      <a href="https://amyyzzin.tistory.com"><img src="https://img.shields.io/badge/Tistory-black?style=flat-square&logo=Tistory&logoColor=white"/>
      <a href="https://amyyzzin.notion.site/Java-060c06315dc54620b775a759812c16df"><img src="https://img.shields.io/badge/portfolio-black?style=flat-square&logo=Notion&logoColor=white" />
      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Famyyzzin&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false" />
