@@ -29,5 +29,5 @@ I do my best with a positive attitude and strong responsibility.  </br>
 <h2>💻 Git status</h2>
 <div width=100%>
 <img src="https://github-readme-stats.vercel.app/api?username=amyyzzin" width=49% />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amyyzzin&layout=compact" width=49% />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amyyzzin&layout=compact" width=46% />
 </div>
