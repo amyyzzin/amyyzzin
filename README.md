@@ -5,7 +5,7 @@
 <div>
      <a href="mailto:"https://amyyzzin.gmail.com"><img src="https://img.shields.io/badge/Gmail-black?style=flat-square&logo=Gmail&logoColor=white"/>
      <a href="https://amyyzzin.tistory.com"><img src="https://img.shields.io/badge/Tistory-black?style=flat-square&logo=Tistory&logoColor=white"/>
-     <a href="https://amyyzzin.notion.site/Java-060c06315dc54620b775a759812c16df"><img src="https://img.shields.io/badge/portfolio-black?style=flat-square&logo=Notion&logoColor=white" />
+     <a href="https://amyyzzin.notion.site/Java-4b8985a41fa441c1b9e9a13424288ec3"><img src="https://img.shields.io/badge/portfolio-black?style=flat-square&logo=Notion&logoColor=white" />
 </div>
           
 <h2>👩‍🔧 About ME</h2>
